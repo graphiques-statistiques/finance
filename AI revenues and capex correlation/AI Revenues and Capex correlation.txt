@@ -1,38 +1,38 @@
 I will use the acronym GAMM when refering to the group of the companies Google, Microsoft, Amazon and Meta. The acronym GAMM's USA providers is for NVidia, Broadcom and Micron.
 
-I gathered financial data from SEC K-10 Filings of GAMM and GAMM's USA providers using an python algorithm that parses SEC filings.
+I gathered financial data from SEC K-10 Filings of GAMM and GAMM's USA providers using a python algorithm that parses SEC filings.
 
 The financial data of TSMC, ASML, HK Hynix and Samsung are not published in the same form as in the USA. They couldn't be retrieved by my algorithm.
 So this analysis is based only on usa companies.
 
-In my opinion. The case of TSMC, ASML wouldn't change much the results since the cost of good sold of NVIDIA are part of TSMC's revenue.
-The same way, part of TSMC's revenue are turned into capex to buy ASML machine. Including the revenue of TSMC, ASML might lead two counting more than once the capex spent by the GAMM.
+In my opinion. In the case of TSMC, ASML wouldn't change the results much since the cost of good sold of NVIDIA are part of TSMC's revenue.
+The same way, part of TSMC's revenue is turned into capex to buy ASML machines. Including the revenue of TSMC and ASML might lead to counting more than once the capex spent by the GAMM.
 
 Adding the revenues of HK Hynix and Samsung into the analysis would give us a broader picture on the relationship between GAMM capex and GAMM's USA providers revenues.
-Though I believe that analysing the usa market can give us a good idea about the relationship the AI/Hyperscaler capex and providers' revenues.
+Though I believe that analysing the usa market can give us a good idea about the relationship between the AI/Hyperscaler capex and providers' revenues.
 
 Since 2019 and 2025 the total of GAMM Capex has increased.
-So has the total revenues of NVidia, Broadcom and Micron. These three companies benefit from Capex into Ai by serving as GAMM's USA providers.
+So has the total revenues of NVidia, Broadcom and Micron. These three companies benefit from Capex into AI and Hyperscaler by serving as GAMM's USA providers.
 
 I displayed the two sums on a graph and got the pearson correlation of 0.9688
-It suggests the existence of linear relationship between the sum of GAMM's Capex and the sum of the providers' revenues.
+It suggests the existence of a linear relationship between the sum of GAMM's Capex and the sum of the providers' revenues.
 From these results, we can assume that the revenues of the GAMM's USA providers could be economically highly dependent on the investment of the GAMM.
 From the filings report of mid-2026, we know that the ratio Capex / cashflow for Q2 of 2026 of the GAMM was 96%
 
-We can expect that as long as the GAMM consider the capex are convertible into profitable assets, they will keep investing. The GAMM's USA providers will benefit from those capex.
+We can expect that as long as the GAMM considers the capex is convertible into profitable assets, they will keep investing. The GAMM's USA providers will benefit from those capex.
 Let's consider a scenario when the need for GAMM's services (hyperscaler, clouds, etc...) will decrease because more production will no longer allow them to get a higher number of customers.
 We shall assume that, from that moment, the GAMM's capex will only cover their annual depreciations, which are 37269 millions of USD in the Q2 of 2026. That makes 22% of the current capex spending of GAMM.
 
-That nearly 80% decrease of GAMM's capex might cause the revenue of GAMM's provides to fall.
+That nearly 80% decrease of GAMM's capex might cause the revenue of GAMM's providers to fall.
 
-In the case where GAMM's capex are as profitable as expected, the capitalization of the GAMM might be justified.
-In the case where GAMM's capex are not as profitable as expected, the capitalization of the GAMM might decrease but with a minimum limit set by their strong fondamentals.
+In the case where GAMM's capex is as profitable as expected, the capitalization of the GAMM might be justified.
+In the case where GAMM's capex is not as profitable as expected, the capitalization of the GAMM might decrease but with a minimum limit set by their strong fundamentals.
 
-Any case, the GAMM can't sustain to spend nearly 100% of their cashflows into capex. A part of the GAMM's profits will eventually have to no longer be used as capex but instead be distributed to shareholders.
-Then, The GAMM's providers might suffer from huge loss in revenues caused by the decrease in need for property plant and equipment. That might cause a sharp decline in NVidia, Broadcom and Micron capitalisation.
+In any case, the GAMM can't sustain nearly 100% of their cashflows into capex forever. A part of the GAMM's profits will eventually have to no longer be used as capex but instead be distributed to shareholders.
+Then, The GAMM's providers might suffer from huge loss in revenues. That might cause a sharp decline in NVidia, Broadcom and Micron capitalisation.
 
-NVidia, Broadcom and Micron might foundthemselves in a position of overcapacity, possibly leading to lower prices of gpu, cpu, custom ai chips, ram and networking equipments.
-That might give companies with smaller capital an oportunity to access the market of hyperscaler and AI without needing substantial capex. Maybe some companies will emerge as new GAMM's competitors.
+NVidia, Broadcom and Micron might find themselves in a position of overcapacity, possibly leading to lower prices of gpu, cpu, custom ai chips, ram and networking equipment.
+That might give companies with smaller capital an opportunity to access the market of hyperscaler and AI without needing substantial capex. Maybe some companies will emerge as new GAMM's competitors.
 Cheaper computing power would also speed up the innovation in "physical AI" in the form of humanoid robots.
 
-Not to mention, that gamers who would be delighted to access affordable gpu to run their games on.
+Not to mention that gamers who would be delighted to access affordable gpu to run their games on.
