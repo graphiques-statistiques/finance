@@ -1,0 +1,124 @@
+Revenues and Capex
+MSFT, MICROSOFT CORP, msft-20260630.htm, 2026-07-29, PurchaseOfPropertyPlantAndEquipment, 115948000000.0
+MSFT, MICROSOFT CORP, msft-20250630.htm, 2025-07-30, PurchaseOfPropertyPlantAndEquipment, 64551000000.0
+MSFT, MICROSOFT CORP, msft-20240630.htm, 2024-07-30, PurchaseOfPropertyPlantAndEquipment, 44477000000.0
+MSFT, MICROSOFT CORP, msft-20230630.htm, 2023-07-27, PurchaseOfPropertyPlantAndEquipment, 28107000000.0
+MSFT, MICROSOFT CORP, msft-10k_20220630.htm, 2022-07-28, PurchaseOfPropertyPlantAndEquipment, 23886000000.0
+MSFT, MICROSOFT CORP, msft-10k_20210630.htm, 2021-07-29, PurchaseOfPropertyPlantAndEquipment, 20622000000.0
+MSFT, MICROSOFT CORP, msft-10k_20200630.htm, 2020-07-30, PurchaseOfPropertyPlantAndEquipment, 15441000000.0
+NVDA, NVIDIA CORP, nvda-20260125.htm, 2026-02-25, Revenues, 215938000000.0
+NVDA, NVIDIA CORP, nvda-20250126.htm, 2025-02-26, Revenues, 130497000000.0
+NVDA, NVIDIA CORP, nvda-20240128.htm, 2024-02-21, Revenues, 60922000000.0
+NVDA, NVIDIA CORP, nvda-20230129.htm, 2023-02-24, Revenues, 26974000000.0
+NVDA, NVIDIA CORP, nvda-20220130.htm, 2022-03-18, Revenues, 26914000000.0
+NVDA, NVIDIA CORP, nvda-20210131.htm, 2021-02-26, Revenues, 16675000000.0
+NVDA, NVIDIA CORP, nvda-2020x10k.htm, 2020-02-20, Revenues, 10918000000.0
+GOOGL, Alphabet Inc., goog-20251231.htm, 2026-02-05, PurchaseOfPropertyPlantAndEquipment, 91447000000.0
+GOOGL, Alphabet Inc., goog-20241231.htm, 2025-02-05, PurchaseOfPropertyPlantAndEquipment, 52535000000.0
+GOOGL, Alphabet Inc., goog-20231231.htm, 2024-01-31, PurchaseOfPropertyPlantAndEquipment, 32251000000.0
+GOOGL, Alphabet Inc., goog-20221231.htm, 2023-02-03, PurchaseOfPropertyPlantAndEquipment, 31485000000.0
+GOOGL, Alphabet Inc., goog-20211231.htm, 2022-02-02, PurchaseOfPropertyPlantAndEquipment, 24640000000.0
+GOOGL, Alphabet Inc., goog-20201231.htm, 2021-02-03, PurchaseOfPropertyPlantAndEquipment, 22281000000.0
+GOOGL, Alphabet Inc., goog10-k2019.htm, 2020-02-04, PurchaseOfPropertyPlantAndEquipment, 23548000000.0
+AMZN, AMAZON COM INC, amzn-20251231.htm, 2026-02-06, PurchaseOfPropertyPlantAndEquipment, 131819000000.0
+AMZN, AMAZON COM INC, amzn-20241231.htm, 2025-02-07, PurchaseOfPropertyPlantAndEquipment, 82999000000.0
+AMZN, AMAZON COM INC, amzn-20231231.htm, 2024-02-02, PurchaseOfPropertyPlantAndEquipment, 52729000000.0
+AMZN, AMAZON COM INC, amzn-20221231.htm, 2023-02-03, PurchaseOfPropertyPlantAndEquipment, 63645000000.0
+AMZN, AMAZON COM INC, amzn-20211231.htm, 2022-02-04, PurchaseOfPropertyPlantAndEquipment, 61053000000.0
+AMZN, AMAZON COM INC, amzn-20201231.htm, 2021-02-03, PurchaseOfPropertyPlantAndEquipment, 40140000000.0
+AMZN, AMAZON COM INC, amzn-20191231x10k.htm, 2020-01-31, PurchaseOfPropertyPlantAndEquipment, 16861000000.0
+META, Meta Platforms, Inc., meta-20251231.htm, 2026-01-29, PurchaseOfPropertyPlantAndEquipment, 69691000000.0
+META, Meta Platforms, Inc., meta-20241231.htm, 2025-01-30, PurchaseOfPropertyPlantAndEquipment, 37256000000.0
+META, Meta Platforms, Inc., meta-20231231.htm, 2024-02-02, PurchaseOfPropertyPlantAndEquipment, 27266000000.0
+META, Meta Platforms, Inc., meta-20221231.htm, 2023-02-02, PurchaseOfPropertyPlantAndEquipment, 31431000000.0
+META, Meta Platforms, Inc., fb-20211231.htm, 2022-02-03, PurchaseOfPropertyPlantAndEquipment, 18567000000.0
+META, Meta Platforms, Inc., fb-20201231.htm, 2021-01-28, PurchaseOfPropertyPlantAndEquipment, 15115000000.0
+META, Meta Platforms, Inc., fb-12312019x10k.htm, 2020-01-30, PurchaseOfPropertyPlantAndEquipment, 15102000000.0
+AVGO, Broadcom Inc., avgo-20251102.htm, 2025-12-18, Revenues, 63887000000.0
+AVGO, Broadcom Inc., avgo-20241103.htm, 2024-12-20, Revenues, 51574000000.0
+AVGO, Broadcom Inc., avgo-20231029.htm, 2023-12-14, Revenues, 35819000000.0
+AVGO, Broadcom Inc., avgo-20221030.htm, 2022-12-16, Revenues, 33203000000.0
+AVGO, Broadcom Inc., avgo-20211031.htm, 2021-12-17, Revenues, 27450000000.0
+AVGO, Broadcom Inc., avgo-20201101.htm, 2020-12-18, Revenues, 23888000000.0
+AVGO, Broadcom Inc., avgo-11032019x10k.htm, 2019-12-20, Revenues, 22597000000.0
+MU, MICRON TECHNOLOGY INC, mu-20260903.htm, 2026-10-09, Revenues, 133188000000.0
+MU, MICRON TECHNOLOGY INC, mu-20250828.htm, 2025-10-03, Revenues, 37378000000.0
+MU, MICRON TECHNOLOGY INC, mu-20240829.htm, 2024-10-04, Revenues, 25111000000.0
+MU, MICRON TECHNOLOGY INC, mu-20230831.htm, 2023-10-06, Revenues, 15540000000.0
+MU, MICRON TECHNOLOGY INC, mu-20220901.htm, 2022-10-07, Revenues, 30758000000.0
+MU, MICRON TECHNOLOGY INC, mu-20210902.htm, 2021-10-08, Revenues, 27705000000.0
+MU, MICRON TECHNOLOGY INC, mu-20200903.htm, 2020-10-19, Revenues, 21435000000.0
+
+
+
+Capex / Cashflow
+MSFT, MICROSOFT CORP, msft-20260630.htm, 2026-07-29, PurchaseOfPropertyPlantAndEquipment, 115948000000.0
+MSFT, MICROSOFT CORP, msft-20250630.htm, 2025-07-30, PurchaseOfPropertyPlantAndEquipment, 64551000000.0
+MSFT, MICROSOFT CORP, msft-20240630.htm, 2024-07-30, PurchaseOfPropertyPlantAndEquipment, 44477000000.0
+MSFT, MICROSOFT CORP, msft-20230630.htm, 2023-07-27, PurchaseOfPropertyPlantAndEquipment, 28107000000.0
+MSFT, MICROSOFT CORP, msft-10k_20220630.htm, 2022-07-28, PurchaseOfPropertyPlantAndEquipment, 23886000000.0
+MSFT, MICROSOFT CORP, msft-10k_20210630.htm, 2021-07-29, PurchaseOfPropertyPlantAndEquipment, 20622000000.0
+MSFT, MICROSOFT CORP, msft-10k_20200630.htm, 2020-07-30, PurchaseOfPropertyPlantAndEquipment, 15441000000.0
+MSFT, MICROSOFT CORP, msft-20260630.htm, 2026-07-29, CashFlowsFromUsedInOperatingActivities, 182935000000.0
+MSFT, MICROSOFT CORP, msft-20250630.htm, 2025-07-30, CashFlowsFromUsedInOperatingActivities, 136162000000.0
+MSFT, MICROSOFT CORP, msft-20240630.htm, 2024-07-30, CashFlowsFromUsedInOperatingActivities, 118548000000.0
+MSFT, MICROSOFT CORP, msft-20230630.htm, 2023-07-27, CashFlowsFromUsedInOperatingActivities, 87582000000.0
+MSFT, MICROSOFT CORP, msft-10k_20220630.htm, 2022-07-28, CashFlowsFromUsedInOperatingActivities, 89035000000.0
+MSFT, MICROSOFT CORP, msft-10k_20210630.htm, 2021-07-29, CashFlowsFromUsedInOperatingActivities, 76740000000.0
+MSFT, MICROSOFT CORP, msft-10k_20200630.htm, 2020-07-30, CashFlowsFromUsedInOperatingActivities, 60675000000.0
+GOOGL, Alphabet Inc., goog-20251231.htm, 2026-02-05, PurchaseOfPropertyPlantAndEquipment, 91447000000.0
+GOOGL, Alphabet Inc., goog-20241231.htm, 2025-02-05, PurchaseOfPropertyPlantAndEquipment, 52535000000.0
+GOOGL, Alphabet Inc., goog-20231231.htm, 2024-01-31, PurchaseOfPropertyPlantAndEquipment, 32251000000.0
+GOOGL, Alphabet Inc., goog-20221231.htm, 2023-02-03, PurchaseOfPropertyPlantAndEquipment, 31485000000.0
+GOOGL, Alphabet Inc., goog-20211231.htm, 2022-02-02, PurchaseOfPropertyPlantAndEquipment, 24640000000.0
+GOOGL, Alphabet Inc., goog-20201231.htm, 2021-02-03, PurchaseOfPropertyPlantAndEquipment, 22281000000.0
+GOOGL, Alphabet Inc., goog10-k2019.htm, 2020-02-04, PurchaseOfPropertyPlantAndEquipment, 23548000000.0
+GOOGL, Alphabet Inc., goog-20251231.htm, 2026-02-05, CashFlowsFromUsedInOperatingActivities, 164713000000.0
+GOOGL, Alphabet Inc., goog-20241231.htm, 2025-02-05, CashFlowsFromUsedInOperatingActivities, 125299000000.0
+GOOGL, Alphabet Inc., goog-20231231.htm, 2024-01-31, CashFlowsFromUsedInOperatingActivities, 101746000000.0
+GOOGL, Alphabet Inc., goog-20221231.htm, 2023-02-03, CashFlowsFromUsedInOperatingActivities, 91495000000.0
+GOOGL, Alphabet Inc., goog-20211231.htm, 2022-02-02, CashFlowsFromUsedInOperatingActivities, 91652000000.0
+GOOGL, Alphabet Inc., goog-20201231.htm, 2021-02-03, CashFlowsFromUsedInOperatingActivities, 65124000000.0
+GOOGL, Alphabet Inc., goog10-k2019.htm, 2020-02-04, CashFlowsFromUsedInOperatingActivities, 54520000000.0
+AMZN, AMAZON COM INC, amzn-20251231.htm, 2026-02-06, PurchaseOfPropertyPlantAndEquipment, 131819000000.0
+AMZN, AMAZON COM INC, amzn-20241231.htm, 2025-02-07, PurchaseOfPropertyPlantAndEquipment, 82999000000.0
+AMZN, AMAZON COM INC, amzn-20231231.htm, 2024-02-02, PurchaseOfPropertyPlantAndEquipment, 52729000000.0
+AMZN, AMAZON COM INC, amzn-20221231.htm, 2023-02-03, PurchaseOfPropertyPlantAndEquipment, 63645000000.0
+AMZN, AMAZON COM INC, amzn-20211231.htm, 2022-02-04, PurchaseOfPropertyPlantAndEquipment, 61053000000.0
+AMZN, AMAZON COM INC, amzn-20201231.htm, 2021-02-03, PurchaseOfPropertyPlantAndEquipment, 40140000000.0
+AMZN, AMAZON COM INC, amzn-20191231x10k.htm, 2020-01-31, PurchaseOfPropertyPlantAndEquipment, 16861000000.0
+AMZN, AMAZON COM INC, amzn-20251231.htm, 2026-02-06, CashFlowsFromUsedInOperatingActivities, 139514000000.0
+AMZN, AMAZON COM INC, amzn-20241231.htm, 2025-02-07, CashFlowsFromUsedInOperatingActivities, 115877000000.0
+AMZN, AMAZON COM INC, amzn-20231231.htm, 2024-02-02, CashFlowsFromUsedInOperatingActivities, 84946000000.0
+AMZN, AMAZON COM INC, amzn-20221231.htm, 2023-02-03, CashFlowsFromUsedInOperatingActivities, 46752000000.0
+AMZN, AMAZON COM INC, amzn-20211231.htm, 2022-02-04, CashFlowsFromUsedInOperatingActivities, 46327000000.0
+AMZN, AMAZON COM INC, amzn-20201231.htm, 2021-02-03, CashFlowsFromUsedInOperatingActivities, 66064000000.0
+AMZN, AMAZON COM INC, amzn-20191231x10k.htm, 2020-01-31, CashFlowsFromUsedInOperatingActivities, 38514000000.0
+META, Meta Platforms, Inc., meta-20251231.htm, 2026-01-29, PurchaseOfPropertyPlantAndEquipment, 69691000000.0
+META, Meta Platforms, Inc., meta-20241231.htm, 2025-01-30, PurchaseOfPropertyPlantAndEquipment, 37256000000.0
+META, Meta Platforms, Inc., meta-20231231.htm, 2024-02-02, PurchaseOfPropertyPlantAndEquipment, 27266000000.0
+META, Meta Platforms, Inc., meta-20221231.htm, 2023-02-02, PurchaseOfPropertyPlantAndEquipment, 31431000000.0
+META, Meta Platforms, Inc., fb-20211231.htm, 2022-02-03, PurchaseOfPropertyPlantAndEquipment, 18567000000.0
+META, Meta Platforms, Inc., fb-20201231.htm, 2021-01-28, PurchaseOfPropertyPlantAndEquipment, 15115000000.0
+META, Meta Platforms, Inc., fb-12312019x10k.htm, 2020-01-30, PurchaseOfPropertyPlantAndEquipment, 15102000000.0
+META, Meta Platforms, Inc., meta-20251231.htm, 2026-01-29, CashFlowsFromUsedInOperatingActivities, 115800000000.0
+META, Meta Platforms, Inc., meta-20241231.htm, 2025-01-30, CashFlowsFromUsedInOperatingActivities, 91328000000.0
+META, Meta Platforms, Inc., meta-20231231.htm, 2024-02-02, CashFlowsFromUsedInOperatingActivities, 71113000000.0
+META, Meta Platforms, Inc., meta-20221231.htm, 2023-02-02, CashFlowsFromUsedInOperatingActivities, 50475000000.0
+META, Meta Platforms, Inc., fb-20211231.htm, 2022-02-03, CashFlowsFromUsedInOperatingActivities, 57683000000.0
+META, Meta Platforms, Inc., fb-20201231.htm, 2021-01-28, CashFlowsFromUsedInOperatingActivities, 38747000000.0
+META, Meta Platforms, Inc., fb-12312019x10k.htm, 2020-01-30, CashFlowsFromUsedInOperatingActivities, 36314000000.0
+
+Company,PurchaseOfPropertyPlantAndEquipment_Calculation,PurchaseOfPropertyPlantAndEquipment,CashFlowsFromUsedInOperatingActivities_Calculation,CashFlowsFromUsedInOperatingActivities,Depreciation_Calculation,Depreciation, filing, filing Q-1
+MSFT,115948-80146,-35802,182935-127494,55441,34300-24000,10300, msft-20260630.htm, msft-20260331.htm
+GOOG,80598-35674,-44924,84859-45790,39069,13600-6500,7100, goog-20260630.htm, goog-20260331.htm
+AMZN,Directly reported,-54208,Directly reported,45387,Directly reported D&A,13869, goog-20260630.htm, goog-20260331.htm
+META,49113-18997,-30116,64088-32226,31862,Directly reported,6000, meta-20260630.htm, meta-20260331.htm
+TOTAL,165050,-165050,171759,171759,10300+7100+13869+6000,37269
+
+Q2 of 2026
+Total PurchaseOfPropertyPlantAndEquipment : 165050
+Total CashFlowsFromUsedInOperatingActivities : 171759
+Total Depreciation (And Amorization) : 37269
+37269/165050
+Capex / Cash flow = 0.96 =165050/171759 = 96%
